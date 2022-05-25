@@ -1,0 +1,4 @@
+UserID,UserName,NumberOfPastPurchases
+1234,Harry,4
+3456,Mariam,8
+5678,Pragya,12
